@@ -5,10 +5,6 @@ This repo isolates the retargeting module from [Rokoko's Blender Plugin](https:/
 ## Retargeting
 In order to retarget an animation in Blender you will need to do the following:
 
-- Open the Retargeting panel
-
-  <img src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/47029758599/original/gt30hHJ2JCfKDmmALDxjffiHbYjqFMQFmg.png"/>
-
 - Select an armature with an animation as the source armature, select an armature that should receive the animation as the target armature and then press "Build Bone List"
 
   <img src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/47029758649/original/AuSYaHVCMTAQmTYRX8JHohflx4B6tu7EVQ.png"/>
