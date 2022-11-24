@@ -1,6 +1,6 @@
 # Easy Retargeting Plugin for Blender
 
-This repo isolates the retargeting module from (Rokoko's Blender Plugin)[https://github.com/Rokoko/rokoko-studio-live-blender] with none of the other cruft or frills.
+This repo isolates the retargeting module from [Rokoko's Blender Plugin](https://github.com/Rokoko/rokoko-studio-live-blender) with none of the other cruft or frills.
 
 ## Retargeting
 In order to retarget an animation in Blender you will need to do the following:
